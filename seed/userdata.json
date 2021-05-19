@@ -1,0 +1,27 @@
+[
+    {
+      "displayName": "Ian",
+      "email": "Ian@hotmail.com",
+      "password": "password12345"
+    },
+    {
+      "displayName": "Cameron",
+      "email": "Cameron@gmail.com",
+      "password": "password12345"
+    },
+    {
+      "displayName": "Danny",
+      "email": "Danny@gmail.com",
+      "password": "password12345"
+    },
+    {
+      "displayName": "Claudia",
+      "email": "Claudia@gmail.com",
+      "password": "password12345"
+    },
+    {
+      "displayName": "Andrea",
+      "email": "Andrea@yahoo.com",
+      "password": "password12345"
+    }
+  ]

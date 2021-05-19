@@ -1,27 +1,20 @@
-<div class="column">
-<h2 class="title pb-4">create new account:</h2><hr>
-<form class="signup-form">
-  <div>
-    <label for="username-signup">username:</label>
-    <input type="text" id="username-signup" />
+<form class="form signup-form">
+  <div class="form-group">
+    <label class="display-7" for="name">Name:</label>
+    <input class="form-input" type="name" id="name" />
   </div>
-  <div>
-    <label for="email-signup">email:</label>
-    <input type="text" id="email-signup" />
+  <div class="form-group">
+    <label class="display-7" for="email-login">Email:</label>
+    <input class="form-input" type="text" id="signup-email" />
   </div>
-    <div>
-    <label for="github-signup">github:</label>
-    <input type="text" id="github-signup" />
+  <div class="form-group">
+    <label class="display-7" for="password-login">Password:</label>
+    <input class="form-input" type="password" id="signup-pw" />
   </div>
-  <div>
-    <label for="password-signup">password:</label>
-    <input type="password" id="password-signup" />
+  <div class="form-group">
+    <button class="btn alert-dark" type="submit" id="signupbtn">Sign Up</button>
   </div>
-  <div>
-    <button type="submit" class="button is-primary">signup</button>
-  </div>
-</form>
-</div>
 
-<!-- javascript file-->
-<script src="/javascript/signup.js"></script>
+</form>
+
+<script src="/js/signup.js"></script>
