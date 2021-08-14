@@ -1,4 +1,5 @@
 # tech-blog
+- this is a complete backend project using nodeJS, express, and MySql. This project is to allow the user to create a profile and be able to post different blogs. The user can then delete those posts if they choose to do so.
 
 # installation
 npm init
